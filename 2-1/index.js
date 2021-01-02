@@ -3,5 +3,5 @@ function sayHello(potato){
 }
 
 sayHello();
-sayHello("Kichang") //-> Doesn't Work! argument를 추가해야함
+sayHello("Kichang") //-> potato argument가 없으면 Doesn't Work! argument를 추가해야함
 console.log("Hi!")
