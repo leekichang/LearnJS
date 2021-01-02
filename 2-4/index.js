@@ -6,7 +6,7 @@ function handleResize(event){
 }
 
 function handleClick(){
-    title.style.color = "red"
+    title.style.color = "red";
     //console.log("I've been resized");
 }
 
